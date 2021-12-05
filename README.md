@@ -1,4 +1,4 @@
-# Work Day Scheduler Starter Code
+# Work Day Scheduler App
 
 This is a calender for an employee to save details to the calender
 this calender will help the employees on their tasks with color highlights based on the current hour
