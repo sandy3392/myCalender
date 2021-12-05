@@ -17,7 +17,7 @@ var hourLogic = function (){
 
     $(".time-block").each(function() {
 
-        var blockHour = $(this).attr("id");
+        var blockHour = parseInt($(this).attr("id"));
         if (blockHour < currentHour){
 
             $(this).children(".form-control").addClass("past");
